@@ -20,7 +20,7 @@ V=Sampling.ru_sampling(train_norm,labels_train_norm)#UnderSampling applied in th
 X=V[0]
 y=V[1]
 
-Per=ANN(100)#Creates an object of the class Perceptron with the maximum number of epochs=100
+Per=ANN(1000)#Creates an object of the class Perceptron_MinOver with the maximum number of epochs=1000
 Per.fit(X,y)#Iterates through feature vectors and trains the model
 y_pred=Per.pred(X_test)#Predicts the test labels
 ACC=Metrics.check_accuracy(y_pred, y_test)#Computes accuracy
