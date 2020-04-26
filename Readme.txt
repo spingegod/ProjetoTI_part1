@@ -13,6 +13,7 @@ Para correr os scripts fornecidos, façam download do ficheiro rar deste reposit
 alterar as localizações dos ficheiros dentro da mesma.
 
 Os ficheiros podem demorar um pouco a correr, sobretudo os das redes neuronais (demoram bastante a ser treinadas)
+Também é recomendável que corram os ficheiros das Redes neuronais mais do que uma vez pois os resultados tendem a oscilar
 
 Embora os nomes dos ficheiros sejam self explanatory, abaixo estão as correspondencias entre os ficheiros que devem correr 
 e o classificador do qual querem visualizar os resultados.
