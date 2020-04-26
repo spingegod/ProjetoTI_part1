@@ -6,16 +6,13 @@ Dentro da pasta pulsar_project estão algumas funções feitas de raíz entre as
 Para além destes, estão também um ficheiro com 2 métodos de Sampling (Random Under Sampling e Random Over Sampling)
 bem como outro ficheiro com métricas usadas para avaliar a performance dos classificadores.
 
-Se tiverem curisosidade podem analisar estas funções e estudá-las com mais pormenor sendo que se precisarem de 
-bibliografia adicional podem sempre pedir.
+Podem guardar e utilizar estas funções como quiserem.
+Se sentirem curiosidade, analisem e estudem os algoritmos com mais pormenor sendo que se precisarem de bibliografia adicional podem sempre pedir.
 
-Para correr os scripts fornecidos, fazer download do ficheiro rar deste repositório e extrair a pasta ProjetoTI sem 
+Para correr os scripts fornecidos, façam download do ficheiro rar deste repositório e extraiam a pasta "ProjetoTI" sem 
 alterar as localizações dos ficheiros dentro da mesma.
 
-
-Os ficheiros podem demorar alguns minutos a correr, sobretudo os das redes neuronais (demoram bastante a ser treinadas)
-e do KNN (o algoritmo está um pouco ineficiente, tenham paciência).
-
+Os ficheiros podem demorar um pouco a correr, sobretudo os das redes neuronais (demoram bastante a ser treinadas)
 
 Embora os nomes dos ficheiros sejam self explanatory, abaixo estão as correspondencias entre os ficheiros que devem correr 
 e o classificador do qual querem visualizar os resultados.
