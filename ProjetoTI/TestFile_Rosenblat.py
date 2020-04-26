@@ -15,7 +15,7 @@ train_norm, X_test, labels_train_norm, y_test = train_test_split(full_ds_norm, f
 #Splits the dataset into training(95%) and test(5%)
 
 
-V=Sampling.ru_sampling(train_norm,labels_train_norm)#UnderSampling applied in the training data
+V=Sampling.undersampling(train_norm,labels_train_norm)#UnderSampling applied in the training data
 
 X=V[0]
 y=V[1]
